@@ -14,7 +14,7 @@ E-mail: drezzerock@gmail.com
 Briefly About Myself:
 
 22 y.o. Straight male.
-Bachelor degree on Information systems and techologies. 
+Bachelor degree on Information systems and techologies.
 
 ***
 
@@ -22,6 +22,7 @@ Bachelor degree on Information systems and techologies.
 - HTML, CSS
 - JavaScript, Python
 - Git, GitHub
+- Bash
 
 ***
 
