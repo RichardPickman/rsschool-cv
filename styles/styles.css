@@ -1,0 +1,122 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Lato', sans-serif;
+    width: 75%;
+    margin: auto;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    background-color: #3b3b3b;
+    color: rgb(173, 173, 173);
+}
+
+.contact-items {
+    margin-left: 2%;
+}
+
+.credentials-title {
+    font-size: medium;
+}
+
+.credentials-info {
+    font-size: small;
+}
+
+.me {
+    width: 100%;
+    border-radius: 80pt;
+    margin: 0px auto;
+}
+
+.photo-block {
+    width: 80%;
+    margin: 5px auto;
+}
+
+.block {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin: auto;
+    font-size: medium;
+}
+
+.years {
+    width: 50%;
+    text-align: justify;
+}
+
+.block-info {
+    width: 50%;
+    text-align: justify;
+}
+
+.block-title {
+    font-size: medium;
+    text-transform: uppercase;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+}
+
+.text {
+    padding-left: 10px;
+    border-bottom: white;
+}
+
+.header {
+    width: 80%;
+    margin-left: 5%;
+    font-size: medium;
+    border-bottom: 2px solid rgb(173, 173, 173);
+}
+
+.homies {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.homie {
+    margin: auto;
+}
+
+h1,
+h2 {
+    text-transform: uppercase;
+    width: 80%;
+}
+
+.about {
+    width: 50%;
+    margin: auto;
+}
+/* 
+.rsschool {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin: auto;
+    
+} */
+
+.rsschool-logo {
+    width: 10%;
+}
+
+footer {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    justify-content: space-around;
+    align-items: center;
+}
